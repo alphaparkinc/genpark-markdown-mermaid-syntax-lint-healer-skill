@@ -1,0 +1,21 @@
+{
+  "name": "genpark-markdown-mermaid-syntax-lint-healer-skill",
+  "version": "1.0.1",
+  "description": "LLM output Mermaid diagram linting, unquoted bracket healing, and syntax normalization engine",
+  "author": "GenPark AI",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "topics": [
+    "mcp",
+    "mermaid-lint",
+    "markdown-healer",
+    "diagram-syntax",
+    "llm-guardrails",
+    "syntax-fixer",
+    "python-standard-library",
+    "agent-skills",
+    "documentation-tools",
+    "visualization",
+    "mermaid-parser"
+  ]
+}
